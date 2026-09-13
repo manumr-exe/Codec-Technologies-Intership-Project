@@ -142,11 +142,11 @@ Iteration
 
 ### Healthcare Data Management System
 
-**Figma:** [Add Figma link]
+**Figma:** [(https://www.figma.com/design/4VlZVdSuvOJWLnULSeRGMY/Healthcare-UI?node-id=0-1&t=9PD26d0mpWu3i1zu-1)]
 
 ### Digital Banking Super Dashboard
 
-**Figma:** [Add Figma link]
+**Figma:** [(https://www.figma.com/design/mboP6T0xSnYg9LpXMbUqp3/Payments-UI?node-id=0-1&t=GA1TXyQ4oDeAefaC-1)]
 
 ---
 
